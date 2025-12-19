@@ -1,7 +1,7 @@
 {
-  "name": "FrameCSS",
-  "version": "1.1.5",
+  "name": "NewFrameCSS",
   "author": "Nelsen Niko",
-  "cdn": "https://cdn.jsdelivr.net/gh/nelsenniko/framecss@1.1.5/frame.min.css",
+  "version": "1.0.0",
+  "cdn": "https://cdn.jsdelivr.net/gh/nelsenniko/newframecss/data/frame.min.css",
   "status": "stable"
 }
