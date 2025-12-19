@@ -1,0 +1,10 @@
+{
+  "name": "NewFrameCSS",
+  "author": "Nelsen Niko",
+  "version": "latest",
+  "cdn": "https://cdn.jsdelivr.net/gh/nelsenniko/newframecss@latest/data/frame.min.css",
+  "status": "stable",
+  "description": "Framework CSS ringan, modern, dan mudah digunakan",
+  "license": "MIT",
+  "repo": "https://github.com/nelsenniko/newframecss"
+}
