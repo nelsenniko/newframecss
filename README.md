@@ -7,7 +7,7 @@
 ## Versi :
 [frame.1.1.5.css](https://framecss-framework-nelsen.on.drv.tw/V1.1.5.html) [Demo Template](https://framecss-framework-nelsen.on.drv.tw/template.1.1.5.html)
 ## Framecss..?
-[Dokumentasi](https://lzazyhmf1gqglz0hvjcgzq.on.drv.tw/docs.html) | [Lihat kode CSS](https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/frame.min.css) | [Lihat Kode JS](https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/frame.min.js) |
+[Dokumentasi](https://lzazyhmf1gqglz0hvjcgzq.on.drv.tw/docs.html) | [Lihat kode CSS](https://cdn.jsdelivr.net/gh/nelsenniko/framecss/data/frame.min.css) | [Lihat Kode JS](https://cdn.jsdelivr.net/gh/nelsenniko/framecss/data/frame.min.js) |
 ## Status
 ###### Framecss 1.1.4
 | Nama | Deskripsi |
@@ -26,28 +26,28 @@
 ### CDN
 Framecss.CSS
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/newframecss/data/frame.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenniko/newframecss/data/frame.min.css">
 ```
 Framecss.JS
 ```html
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/newframecss/data/frame.js" defer="true"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenniko/newframecss/data/frame.js" defer="true"></script>
 ```
 Slider.JS
 ``` html
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/newframecss/data/slider.js" defer="true"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenniko/newframecss/data/slider.js" defer="true"></script>
 ```
 ### jQuery.js, D3.js, Chart.js, Typed.js
 ```html
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/jq.js" type="text/javascript" charset="utf-8"></script>
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/d3.js" type="text/javascript" charset="utf-8"></script>
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/chart.js" type="text/javascript" charset="utf-8"></script>
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/typed.js" type="text/javascript" charset="utf-8"></script>
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/plot.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenniko/framecss/data/jq.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenniko/framecss/data/d3.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenniko/framecss/data/chart.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenniko/framecss/data/typed.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenniko/framecss/data/plot.js" type="text/javascript" charset="utf-8"></script>
 ```
 ### Another js
 ```html
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/ftema.js" type="text/javascript" charset="utf-8"></script>
-<script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/cp.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenniko/framecss/data/ftema.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdn.jsdelivr.net/gh/nelsenniko/framecss/data/cp.js" type="text/javascript" charset="utf-8"></script>
 ```
 ### NPM
 framecss.1.1.5
@@ -59,13 +59,13 @@ npm i getframecss
 ```
 ### Github
 ```txt
-git clone https://github.com/nelsenpro/newframecss.git
+git clone https://github.com/nelsenniko/newframecss.git
 ```
 ```txt
-git clone https://github.com/nelsenpro/framecss.git
+git clone https://github.com/nelsenniko/framecss.git
 ```
 ### Zip File
-[Download Zip](https://github.com/nelsenpro/newframecss/archive/refs/heads/main.zip)
+[Download Zip](https://github.com/nelsenniko/newframecss/archive/refs/heads/main.zip)
 
 
 ### see other source on :
@@ -81,9 +81,9 @@ git clone https://github.com/nelsenpro/framecss.git
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenpro/newframecss/data/frame.min.css">
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/newframecss/data/frame.js" defer="true"></script>
-    <script src="https://cdn.jsdelivr.net/gh/nelsenpro/framecss/data/slider.js" defer="true"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nelsenniko/newframecss/data/frame.min.css">
+    <script src="https://cdn.jsdelivr.net/gh/nelsenniko/newframecss/data/frame.js" defer="true"></script>
+    <script src="https://cdn.jsdelivr.net/gh/nelsenniko/framecss/data/slider.js" defer="true"></script>
     <title>Mulai Framecss</title>
 </head>
 <body>
