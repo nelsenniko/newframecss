@@ -1,1 +1,17 @@
-
+[
+  {
+    "version": "1.0.0",
+    "cdn": "https://cdn.jsdelivr.net/gh/nelsenniko/newframecss@1.0.0/data/frame.min.css",
+    "status": "stable"
+  },
+  {
+    "version": "1.1.0",
+    "cdn": "https://cdn.jsdelivr.net/gh/nelsenniko/newframecss@1.1.0/data/frame.min.css",
+    "status": "stable"
+  },
+  {
+    "version": "latest",
+    "cdn": "https://cdn.jsdelivr.net/gh/nelsenniko/newframecss@latest/data/frame.min.css",
+    "status": "stable"
+  }
+]
