@@ -1,1 +1,16 @@
-
+{
+  "components": [
+    "grid",
+    "button",
+    "form",
+    "table",
+    "card",
+    "alert",
+    "badge",
+    "utilities",
+    "navbar",
+    "modal",
+    "tooltip",
+    "accordion"
+  ]
+}
