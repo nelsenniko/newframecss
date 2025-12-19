@@ -62,7 +62,7 @@ npm i getframecss
 git clone https://github.com/nelsenniko/newframecss.git
 ```
 ```txt
-git clone https://github.com/nelsenniko/framecss.git
+git clone -b main https://git.launchpad.net/framecss
 ```
 ### Zip File
 [Download Zip](https://github.com/nelsenniko/newframecss/archive/refs/heads/main.zip)
